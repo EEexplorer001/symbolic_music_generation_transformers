@@ -10,7 +10,9 @@ Pop909: https://drive.google.com/drive/folders/1KSwmvu4SGJM2arzWiNDE3h1UEwk7koPI
 
 ## Usage
 GPT-2: To run the training and generation code, clone the reppository
-
-'''
+```
 git clone https://github.com/EEexplorer001/symbolic_music_generation_transformers.git
-'''
+```
+Then run the run.ipynb in the GPT_music folder. You can change the data path, token path, model save path and generation path to your own.
+
+Theme transformer: run ThemeTransformer.ipynb in theme_transformer folder.
