@@ -7,3 +7,10 @@ We use [GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) and [Pop9
 GiantMIDI-Piano: https://drive.google.com/drive/folders/1-L9a69vldJ45tVy1hV964g9mEUKD58LJ?usp=sharing
 
 Pop909: https://drive.google.com/drive/folders/1KSwmvu4SGJM2arzWiNDE3h1UEwk7koPI?usp=sharing
+
+## Usage
+GPT-2: To run the training and generation code, clone the reppository
+
+'''
+git clone https://github.com/EEexplorer001/symbolic_music_generation_transformers.git
+'''
